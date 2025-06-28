@@ -1,3 +1,4 @@
+
 import turtle
 
 turtle.bgcolor("black") # Set the background color to black
